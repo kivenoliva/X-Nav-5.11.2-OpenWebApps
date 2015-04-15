@@ -1,0 +1,9 @@
+{
+    "name": "My_Locator",
+    "package_path" : "http://gsyc.es/~kolivam/ffxos-apps/map.zip",
+    "version": "1",
+    "developer": {
+        "name": "Kevin Oliva Muñoz",
+        "url": ""
+    }
+}
